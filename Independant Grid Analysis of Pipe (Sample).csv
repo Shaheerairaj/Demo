@@ -1,0 +1,12 @@
+﻿# 
+# 05/15/2020 17:47:37
+# The parameters defined in the project are:
+# ,P1 - Edge Sizing Number of Divisions,P2 - Mesh Nodes,P3 - Mesh Elements,P4 - Velocity-OUT [m s^-1],P5 - Pressure-OUT [Pa],P6 - Velocity-MAX [m s^-1]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4,P5,P6
+DP 0,30,9408,8640,0.0012060018,0.00087411597,0.0019693973
+DP 1,40,18070,16832,0.0011479385,0.00081567462,0.0019862631
+DP 2,50,32886,30960,0.0011145524,0.0007681985,0.0019917795
+DP 3,60,51992,49152,0.0010778816,0.00071538604,0.001996611
+DP 4,70,71868,67984,0.001035314,0.00067268095,0.0019930503
